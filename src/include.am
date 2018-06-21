@@ -1,0 +1,6 @@
+include src/ext/include.am
+include src/trunnel/include.am
+include src/common/include.am
+include src/or/include.am
+include src/adapter/include.am
+include src/config/include.am
